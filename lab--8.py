@@ -1,3 +1,4 @@
+#8 palindrome
 inp=input("Enter Input:")
 rev=inp[::-1]
 print(rev)
