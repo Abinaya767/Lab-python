@@ -1,3 +1,4 @@
+#6 odd even
 n=int(input())
 L=[]
 for i in range(n):
